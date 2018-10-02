@@ -13,6 +13,6 @@ Run `> npm install` to install all the project dependencies
 Run `> node index.js` command to start the automation
 
 # Acknowledgments
-	-Hat tip to anyone whose code was used
-	-Inspiration
-	-etc
+-Hat tip to anyone whose code was used
+-Inspiration
+-etc
