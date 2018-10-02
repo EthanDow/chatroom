@@ -1,4 +1,4 @@
-![chatter](https://ehsandow.github.io/chatroom/Capture.PNG)
+![chatter](https://github.com/EthanDow/chatroom/blob/master/Capture.PNG)
 
 # chatroom
 Chatroom is a socket application with three chatroom. 
