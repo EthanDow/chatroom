@@ -3,11 +3,12 @@
 # chatroom
 Chatroom is a socket application with three chatroom. 
 
-#Getting Started
-In order to run this project on your local machine 
-
-Prerequisites
-What things you need to install the software and how to install them
+# Installing 
+Make sure you have these installed
+node.js
+git
+Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) > git clone CLONEURL
+CD to the folder cd FOLDERNAME Run > npm install to install all the node pakages then Run > node index.js to install to start the automation
 
 Give examples
 Installing
