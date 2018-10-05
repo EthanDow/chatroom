@@ -1,11 +1,11 @@
 const app = require("express")(); 
 const server = require("http").Server(app); 
 const io = require("socket.io")(server); 
-const PORT = process.env.PORT; 
+// const PORT = process.env.PORT; 
 
 
-server.listen(PORT, process.env.IP, function(){
-    console.log(`Your serve is running on port ${PORT}...`); 
+server.listen(3000, function(){
+    console.log(`Your serve is running on port 3000...`); 
 }); 
 
 
